@@ -32,7 +32,7 @@ body {
     grid-template-areas: "branding . . nav nav"
         "project-1 project-1 project-1 project-1 project-1"
         ". project-2 project-2 project-2 project-2"
-        ". . project-3 project-3 project-3"
+        ". .     project-3 project-3 project-3"
         "project-4 project-4 project-4 project-4 project-4"
         "project-5 project-5 project-5 project-5 project-5"
         "project-6 project-6 project-6 project-6 project-6"
